@@ -1,4 +1,4 @@
-# Handwritten Note Recognition using Deep Learning
+# Deep Learning Projects
 
 ## Introduction
 
