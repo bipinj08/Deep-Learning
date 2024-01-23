@@ -7,6 +7,7 @@ This repository contains the code for a Deep Learning projects. The goal is to b
 ## Project Structure
 1. Hand written note prediction
 2. Stock price prediction using LSTM
+3. Test sentiment classification
 
 
 ## Getting Started
